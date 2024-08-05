@@ -13,7 +13,7 @@ I am a passionate **DevOps Engineer** with a strong background in automating and
 - JavaScript
 
 ### DevOps & Cloud
-- **CI/CD Tools:** Jenkins, GitLab CI, GitHub Actions, Travis CI
+- **CI/CD Tools:** Jenkins
 - **Containers & Orchestration:** Docker, Kubernetes
 - **Cloud Providers:** AWS, GCP, Azure
 - **Infrastructure as Code:** Terraform, Ansible, CloudFormation
