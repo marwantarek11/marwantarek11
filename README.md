@@ -29,4 +29,4 @@ I am a passionate **DevOps Engineer** with a strong background in automating and
 ## 📫 Connect with Me
 
 - **Email:** [marawantarek17@gmail.com](mailto:marawantarek17@gmail.com)
-- **LinkedIn:** [Marwan Tarek](https://www.linkedin.com/in/marawan-tarek-13034627a)
+- **LinkedIn:** [Marwan Tarek](https://www.linkedin.com/in/marwan-tarek-13034627a)
