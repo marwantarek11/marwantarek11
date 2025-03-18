@@ -6,6 +6,15 @@
 ![DevOps Engineer](https://img.shields.io/badge/DevOps-Engineer-blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-brightgreen)
 ![AWS](https://img.shields.io/badge/AWS-orange)
+![Docker](https://img.shields.io/badge/Docker-blue)
+![Ansible](https://img.shields.io/badge/Ansible-red)
+![Terraform](https://img.shields.io/badge/Terraform-purple)
+![Kafka](https://img.shields.io/badge/Kafka-red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+![Nginx](https://img.shields.io/badge/Nginx-green)
+![Helm](https://img.shields.io/badge/Helm-0f63fe)
+![Jenkins](https://img.shields.io/badge/Jenkins-gray)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-ef476f)
 
 ## 📊 Professional Overview
 DevOps Engineer with expertise in cloud infrastructure, automation, and CI/CD pipeline implementation. Specialized in Kubernetes, Docker, Terraform, and AWS, with a strong focus on system scalability, monitoring, and high availability.
