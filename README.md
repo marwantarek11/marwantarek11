@@ -4,8 +4,8 @@
 
 # Marwan Tarek - DevOps Engineer
 ![DevOps Engineer](https://img.shields.io/badge/DevOps-Engineer-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Expert-brightgreen)
-![AWS](https://img.shields.io/badge/AWS-Certified-orange)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-brightgreen)
+![AWS](https://img.shields.io/badge/AWS-orange)
 
 ## 📊 Professional Overview
 DevOps Engineer with expertise in cloud infrastructure, automation, and CI/CD pipeline implementation. Specialized in Kubernetes, Docker, Terraform, and AWS, with a strong focus on system scalability, monitoring, and high availability.
