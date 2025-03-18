@@ -1,5 +1,8 @@
-# Marwan Tarek - DevOps Engineer
+<p align="center">
+  <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif?cid=ecf05e47h7hacagnd8jzqjca7n6bywpzapdqyt2ft4w9d210&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Demo">
+</p>
 
+# Marwan Tarek - DevOps Engineer
 ![DevOps Engineer](https://img.shields.io/badge/DevOps-Engineer-blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Expert-brightgreen)
 ![AWS](https://img.shields.io/badge/AWS-Certified-orange)
