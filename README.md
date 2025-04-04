@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9a3bdfd3-f493-41d6-8ef7-2bf320a176ad" width="500" height="auto">
+  <img src="https://github.com/user-attachments/assets/bf016858-d74c-435c-bf33-5de082ed3259" width="400" height="auto">
 </p>
 
 # Marwan Tarek - DevOps Engineer
