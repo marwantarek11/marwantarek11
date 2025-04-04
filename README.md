@@ -1,8 +1,7 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/713c3008-0997-4d45-89f9-3d580bf8a48b" width="500" height="auto">
+  <img src="https://github.com/user-attachments/assets/9a3bdfd3-f493-41d6-8ef7-2bf320a176ad" width="500" height="auto">
 </p>
-
 
 # Marwan Tarek - DevOps Engineer
 ![DevOps Engineer](https://img.shields.io/badge/DevOps-Engineer-blue)
