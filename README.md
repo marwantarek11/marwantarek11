@@ -1,6 +1,8 @@
+
 <p align="center">
-  <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif?cid=ecf05e47h7hacagnd8jzqjca7n6bywpzapdqyt2ft4w9d210&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Demo">
+  <img src="https://github.com/user-attachments/assets/713c3008-0997-4d45-89f9-3d580bf8a48b" width="500" height="auto">
 </p>
+
 
 # Marwan Tarek - DevOps Engineer
 ![DevOps Engineer](https://img.shields.io/badge/DevOps-Engineer-blue)
